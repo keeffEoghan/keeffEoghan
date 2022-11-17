@@ -17,7 +17,7 @@ Skills and focusses:
 - Virtual Reality, Augmented Reality, XR: `WebXR`
 - Develop web, apps: mostly Front-End, `JavaScript`, `TypeScript`; some Back-End, ops, native, `Node`, `Python`
 - Real-time natural interaction: computer-vision, tracking, gesture, voice
-- Algorithms, architecture, R&D: physics, maths, prototyping
+- Research, development: physics, maths, prototyping, algorithms, architecture
 - Direct and consult in creative-tech: explore challenges and solutions, research approaches, lead and collaborate with creatives/designers/developers
 
 BSc 1:1
