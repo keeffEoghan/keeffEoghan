@@ -1,5 +1,5 @@
 # [epok.tech](https://epok.tech)
-## code ∩ creative ∩ art
+## code `∩` creative `∩` art
 
 Eoghan O'Keeffe _[oʊən oʊkif]_
 
