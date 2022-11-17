@@ -44,8 +44,9 @@ Scuba, snowboard, parkour, football...
 [BitBucket](https://bitbucket.org/keeffEoghan/)
 
 [LinkedIn](https://www.linkedin.com/in/epok-tech/) ~
-[Working / Not Working](https://workingnotworking.com/epok-tech) ~
 [The Dots](https://the-dots.com/users/eoghan-o-keeffe-411162) ~
+[Working / Not Working](https://workingnotworking.com/epok-tech) ~
 [YunoJuno](https://uk.yunojuno.com/p/epok-tech) ~
+[Wellpaid](https://wellpaid.io/contractor/eoghan-okeeffe-b540f12) ~
 [Hired](https://hired.com/x/27e86) ~
 [Remote](https://remote.com/eoghanokeeffe)
