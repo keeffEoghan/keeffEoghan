@@ -1,7 +1,5 @@
 # [epok.tech](https://epok.tech)
-## code `∩` creative `∩` art
-
-Eoghan O'Keeffe _[oʊən oʊkif]_
+## Eoghan O'Keeffe _[oʊən oʊkif]_ code `∩` creative `∩` art
 
 I make art and creative work through tech...
 Adapt and learn across disciplines...
