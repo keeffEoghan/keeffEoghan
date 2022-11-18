@@ -1,4 +1,6 @@
+
 ![](https://i.imgur.com/BFnsZgv.png)
+
 # [epok.tech](https://epok.tech/)
 
 ## Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f&voice=Joanna) code `∩` creative `∩` art
@@ -11,15 +13,15 @@ explore creative applications of emerging tech.
 I'm interested in creative, cognitive challenges…
 develop real-time graphics, games, apps, web, AI, XR;
 experiment with tech, physics, maths, art;
-explore new spaces, striking experiences, create utility:
+explore new spaces, striking experiences, create utility.
 
 - Real-time interactive graphics, art, games: `WebGL`, `GLSL`
 - Artificial Intelligence: vision, graphics, data; `Tensorflow`, `PyTorch`
 - Virtual Reality, Augmented Reality, XR: `WebXR`
 - Develop web, apps: mostly Front-End, `JavaScript`, `TypeScript`; some Back-End, ops, native, `Node`, `Python`
-- Natural dynamics, forms, interaction: emergent physics, feature-tracking, gesture, voice, Computer Vision
+- Natural dynamics, forms, interaction: emergent physics, gesture, sound, feature-tracking, Computer Vision
 - Research and development: physics, maths, prototyping, algorithms, architecture
-- Director, consultant: lead and collaborate with creatives, designers, developers; explore challenges, approaches, solutions
+- Coder, director, consultant: lead and collaborate with creatives, designers, developers; explore challenges, approaches, solutions; from concept to prototypes to production
 
 BSc 1:1 Entertainment Systems
 
