@@ -1,4 +1,4 @@
-![test](https://i.imgur.com/BFnsZgv.png)
+![](https://i.imgur.com/BFnsZgv.png)
 # [epok.tech](https://epok.tech/)
 
 ## Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f&voice=Joanna) code `∩` creative `∩` art
