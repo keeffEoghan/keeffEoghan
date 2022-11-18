@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/BFnsZgv.png)
+![https://epok.tech/](https://i.imgur.com/BFnsZgv.png)
 
 # [epok.tech](https://epok.tech/)
 
