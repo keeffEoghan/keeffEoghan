@@ -3,30 +3,30 @@
 ## Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f&voice=Joanna) code `∩` creative `∩` art
 
 I make art and creative work through tech…
-Adapt and learn across disciplines;
-Evoke natural dynamics, forms, interactions;
-Explore creative applications of emerging tech.
+adapt and learn across disciplines;
+evoke natural dynamics, forms, interaction;
+explore creative applications of emerging tech.
 
 I'm interested in creative, cognitive challenges…
-Develop real-time graphics, games, apps, web, AI, VR;
-Experiment with tech, physics, maths, art;
-Explore new spaces, striking experiences, create utility:
+develop real-time graphics, games, apps, web, AI, XR;
+experiment with tech, physics, maths, art;
+explore new spaces, striking experiences, create utility:
 
 - Real-time interactive graphics, art, games: `WebGL`, `GLSL`
 - Artificial Intelligence: vision, graphics, data; `Tensorflow`, `PyTorch`
 - Virtual Reality, Augmented Reality, XR: `WebXR`
 - Develop web, apps: mostly Front-End, `JavaScript`, `TypeScript`; some Back-End, ops, native, `Node`, `Python`
-- Natural dynamics, forms, interactions: physics, emergence, Computer Vision, AI tracking, gesture, voice
+- Natural dynamics, forms, interaction: emergent physics, feature-tracking, gesture, voice, Computer Vision
 - Research and development: physics, maths, prototyping, algorithms, architecture
 - Director, consultant: lead and collaborate with creatives, designers, developers; explore challenges, approaches, solutions
 
 BSc 1:1 Entertainment Systems
 
 I'm also into...
-Exploration, travel, nomadism, challenges, perspectives;
-Art, drawing, exhibitions, discourse, learning, debate, reading;
-Music, gigs, festivals, film, comedy, theatre;
-Scuba, snowboard, parkour, football.
+exploration, travel, nomadism, challenges, perspectives;
+art, drawing, exhibitions, discourse, learning, debate, reading;
+music, gigs, festivals, film, comedy, theatre;
+scuba, snowboard, parkour, football.
 
 [portfolio](https://epok.tech/) ~ [CV](https://www.notion.so/CV-2feccf5f5ad84936a6205df6dbd347d5) ~ [email](https://www.notion.so/epoktech/epok.tech@gmail.com)
 
