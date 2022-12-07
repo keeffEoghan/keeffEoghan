@@ -1,5 +1,4 @@
 ![epok.tech](https://i.imgur.com/l2g9JWW.gif)
-![epok-sw-min.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b269f40c-339d-4a1f-bcd9-654677c67e48/epok-sw-min.gif)
 
 ### Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
 
