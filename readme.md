@@ -1,6 +1,6 @@
 ![epok-sw-min.gif](https://media4.giphy.com/media/6SFlUGhs03bQ41Ev6T/giphy.gif?cid=790b76113d54d3306687a53c51639b458247b43177eeece1&rid=giphy.gif&ct=g)
 
-### Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
+### Eoghan O'Keeffe [[`əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
 
 I make art and creative work through tech…
 adapt and learn across disciplines;
@@ -14,10 +14,10 @@ experiment with tech, physics, maths, art;
 develop real-time graphics, web, apps, games, *AI*, *XR*;
 explore new spaces, create striking experiences and utility.
 
-- **Real-time interactive graphics, art, games:** `[WebGL](https://www.khronos.org/webgl/)`, `[GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))`
-- ***Artificial Intelligence*, *Machine Learning*:** vision, graphics, data; `[Tensorflow](https://www.tensorflow.org/)`, `[PyTorch](https://pytorch.org/)`
-- ***Virtual Reality*, *Augmented Reality*, *eXtended Reality*:** `[WebXR](https://webvr.info/)`
-- **Web and app development:** mostly *Front-End*, `[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)`, `[TypeScript](https://www.typescriptlang.org/)`, `[React](https://reactjs.org/)`; some *Back-End*, *ops*, native, `[Node](https://nodejs.org/)`, `[Python](https://www.python.org/)`
+- **Real-time interactive graphics, art, games:** [`WebGL`](https://www.khronos.org/webgl/), [`GLSL`](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
+- ***Artificial Intelligence*, *Machine Learning*:** vision, graphics, data; [`Tensorflow`](https://www.tensorflow.org/), [`PyTorch`](https://pytorch.org/)
+- ***Virtual Reality*, *Augmented Reality*, *eXtended Reality*:** [`WebXR`](https://webvr.info/)
+- **Web and app development:** mostly *Front-End*, [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [`TypeScript`](https://www.typescriptlang.org/), [`React`](https://reactjs.org/); some *Back-End*, *ops*, native, [`Node`](https://nodejs.org/), [`Python`](https://www.python.org/)
 - **Natural dynamics, forms, interaction:** emergent physics, gesture, sound, feature-tracking, *Computer-Vision*
 - **Research and development:** tech, physics, maths, prototyping, algorithms, architecture
 - **Creating across contexts:** online digital, app products, events, installations, exhibits
