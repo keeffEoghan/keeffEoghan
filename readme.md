@@ -1,6 +1,6 @@
 ![epok-sw-min.gif](https://media4.giphy.com/media/6SFlUGhs03bQ41Ev6T/giphy.gif?cid=790b76113d54d3306687a53c51639b458247b43177eeece1&rid=giphy.gif&ct=g)
 
-### Eoghan O'Keeffe [[`əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
+### Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
 
 I make art and creative work through tech…
 adapt and learn across disciplines;
