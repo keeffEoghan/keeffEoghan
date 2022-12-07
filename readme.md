@@ -1,4 +1,4 @@
-![epok.tech](https://i.imgur.com/EVhIuQl.gif)
+![epok.tech](https://i.imgur.com/k8kKP2t.gif)
 
 ### Eoghan O'Keeffe [`[əʊən əʊˈkiːf]`](http://ipa-reader.xyz/?text=%C9%99%CA%8A%C9%99n%20%C9%99%CA%8A%CB%88ki%CB%90f) code `∩` creative `∩` art `@` [epok.tech](https://epok.tech/)
 
