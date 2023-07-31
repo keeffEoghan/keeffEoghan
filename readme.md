@@ -34,6 +34,6 @@ scuba, snowboard, parkour, football.
 
 ---
 
-*[Portfolio](https://epok.tech/) ~ [CV](https://epoktech.notion.site/CV-2feccf5f5ad84936a6205df6dbd347d5) ~ [Instagram](https://www.instagram.com/epok.tech/) ~ [YouTube](https://www.youtube.com/@epok-tech) ~ [Facebook](https://www.facebook.com/epok.tech) ~ [Twitter](https://twitter.com/@keeffEoghan) ~ [GitHub](https://github.com/keeffeoghan) ~ [GitLab](https://gitlab.com/keeffeoghan)*
+*[Portfolio](https://epok.tech/) ~ [CV](https://www.notion.so/CV-2feccf5f5ad84936a6205df6dbd347d5) ~ [Instagram](https://www.instagram.com/epok.tech/) ~ [YouTube](https://www.youtube.com/@epok-tech) ~ [Facebook](https://www.facebook.com/epok.tech) ~ [Twitter](https://twitter.com/epok_tech) ~ [GitHub](https://github.com/keeffeoghan) ~ [GitLab](https://gitlab.com/keeffeoghan) ~ [OpenSea](https://opensea.io/epok-tech) ~ [Olta](https://www.olta.art/profile.html?wallet=0x03c0ec09395d5ea4a1d508b890d45f175d7101a1)*
 
 *[LinkedIn](https://www.linkedin.com/in/epok-tech/) ~ [The Dots](https://the-dots.com/users/eoghan-o-keeffe-411162) ~ [Working / Not Working](https://workingnotworking.com/epok-tech) ~ [YunoJuno](https://uk.yunojuno.com/p/epok-tech) ~ [Wellpaid](https://wellpaid.io/contractor/eoghan-okeeffe-b540f12) ~ [Hired](https://hired.com/x/27e86) ~ [Remote](https://remote.com/eoghanokeeffe) ~ [email](mailto:epok.tech@gmail.com)*
